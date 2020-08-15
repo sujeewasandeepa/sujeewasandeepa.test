@@ -1,3 +1,10 @@
+#site
+name: SEEK
+title: SEEK
+description: concentrating my social media into one page.
+baseurl: ''
+permalink: /:title/
+author: seek
 
 assets:
   compress:
